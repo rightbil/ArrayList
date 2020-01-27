@@ -135,7 +135,17 @@ public class JavaCollectionArrayList {
         {
             System.out.println(searchItem + " was not found in the ArrayList");
         }*/
-// Really TODO: 6 Get Random Item From ArrayList
+// TODO: 6 Get Random Item From ArrayList
+       // Use Eliza or any other assignment with an array or ArrayList. Modify either assignment to use an ArrayList in place of an array
+        // where you need to get a random element. How would you do this with an ArrayList?
+
+ /*   ArrayList<String>  names= new ArrayList();
+        Collections.addAll(names, "Bililign", "Nora", "Victor","Ray","Temesgen");
+        Random r = new Random();
+        int atPosition = r.nextInt(names.size());
+        String winner = names.get(atPosition);
+        System.out.println(winner  + " is winner!");
+        */
 
 // TODO: 7 Hangman Requirements
         /**When you run the application, randomly choose a word from that list for the user to guess.
